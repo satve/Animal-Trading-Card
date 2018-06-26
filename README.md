@@ -9,7 +9,7 @@ Animal Trading Card
 It's basically a simple card, which contains all necessary information about Dog animal along with big picture.
 It is a combination of both CSS, HTML languages. I applied Hover keyframe shakes in it.
 
-<img src="Screenshot (8).png" width = "300px">
+<img src="Screenshot (8).png" width = "1000px">
 
 ## Future Planning
 
